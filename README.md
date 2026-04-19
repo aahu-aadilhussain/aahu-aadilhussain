@@ -4,7 +4,7 @@
 
 ### Aspiring Cloud Engineer | Doha, Qatar 🇶🇦
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/aadil-hussain-aahu974)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aadil-hussain-aahu974)
 [![GitHub](https://img.shields.io/badge/Portfolio-View%20Labs-181717?style=for-the-badge&logo=github)](https://github.com/aahu-aadilhussain/azure-labs-portfolio)
 [![AZ-900](https://img.shields.io/badge/AZ--900-In%20Progress-0078D4?style=for-the-badge&logo=microsoftazure)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
 
