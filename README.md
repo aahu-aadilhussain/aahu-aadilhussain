@@ -68,8 +68,8 @@ not simulations — covering every major area of cloud infrastructure.
 
 | Certification | Provider | Status |
 |---|---|---|
-| AZ-900 Azure Fundamentals | Microsoft | 🎯 Studying — Expected April 2026 |
-| AZ-104 Azure Administrator | Microsoft | 📅 Planned — June 2026 |
+| [AZ-900 Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/AadilHussain-3730/3568B8C4EB4EC61C?sharingId=EFB4D4B67652F277) | Microsoft | ✅ Passed — June 2026 |
+| AZ-104 Azure Administrator | Microsoft | 📅 Planned — 2026 |
 
 ---
 
